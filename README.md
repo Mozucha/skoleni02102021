@@ -3,3 +3,6 @@ Cvičná git repozitory na dnešní školení  - czechitas
 
 ## Druhé cvičení
 Změna do Githubu Lorem Ipsum
+
+## Third exercise
+some changes
